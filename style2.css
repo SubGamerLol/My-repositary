@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+.paragraph {
+  text-align: justify;
+  color: rgb(8, 136, 211);
+  font-family: monospace;
+  font-size: large;
+}
+.link2 {
+  background: #ff3d00;
+  color: #fff;
+  padding: 10px 30px;
+  border-radius: 3px;
+  cursor: pointer;
+  width: 50px;
+}
+
+body {
+  background-image: url("image.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h2 {
+  color: black;
+  text-align: justify;
+  font-family: monospace;
+}
